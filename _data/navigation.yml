@@ -3,3 +3,5 @@ main:
     url: /about/
   - title: "Blog"
     url: /year-archive/
+  - title: "Resumé"
+    url: /resume/
